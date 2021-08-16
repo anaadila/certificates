@@ -3,8 +3,8 @@ Um repositório criado para armazenar todos os comprovantes de participação em
 
 Os certificados estão divididos atualmente em três pastas:
 - Participation in events
-    Certificados relacionados a comprovação de participação de eventos de temática geral
+Certificados relacionados a comprovação de participação de eventos de temática geral
 - Management Certificates
-    Certificados voltados a evolução nas soft skills para aperfeiçoamento na habilidade de Gestão Ágil
+Certificados voltados a evolução nas soft skills para aperfeiçoamento na habilidade de Gestão Ágil
 - Test certificates
-    Certificados voltados a evolução da habilidade técnica com testes automatizados/manuais/exploratórios/regressivos/integrados
+Certificados voltados a evolução da habilidade técnica com testes automatizados/manuais/exploratórios/regressivos/integrados
