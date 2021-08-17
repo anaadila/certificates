@@ -3,7 +3,7 @@ Um repositório criado para armazenar todos os comprovantes de participação em
 
 ---
 
-Os certificados estão divididos atualmente em três pastas:
+Os certificados estão divididos atualmente em cinco pastas:
 
 ```
   .
@@ -12,6 +12,10 @@ Os certificados estão divididos atualmente em três pastas:
   ├── Management Certificates
   │   └── 
   ├── Test certificates
+  │   └── 
+  ├── Programming Certificates
+  │   └── 
+  ├── Other Certificates
   │   └── 
   ├── README.md
 ```
@@ -24,3 +28,9 @@ Certificados voltados a evolução nas soft skills para aperfeiçoamento na habi
 
 **Test certificates** ->
 Certificados voltados a evolução da habilidade técnica com testes automatizados/manuais/exploratórios/regressivos/integrados
+
+**Programming Certificates** ->
+Certificados voltados a evolução da habilidade técnica na lógica e em linguagens de programação
+
+**Other Certificates** ->
+Certificados que não envolvem as habilidades citadas acimas mas ainda assim foram realizados por interesses gerais
